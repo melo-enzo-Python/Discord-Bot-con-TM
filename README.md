@@ -1,0 +1,1 @@
+con el commando $check, subiras una imagen de qualquier pajaro y el bot de discord te dira que tipo de pajaro es y que debe comer, asi, podras apaciguar todos los pajaros que encuentres a lo largo de tu vida!
