@@ -8,11 +8,11 @@ intents.message_content = True
 bot = commands.Bot(command_prefix='$', intents=intents)
 
 @bot.event
-async def on_ready():
+async def on_ready
     print(f'We have logged in as {bot.user}')
 
 @bot.command()
-async def hello(ctx):
+async def hello(ctx)
     await ctx.send(f'Hi! I am a bot {bot.user}!')
 
 @bot.command()
