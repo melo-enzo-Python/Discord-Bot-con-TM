@@ -41,10 +41,10 @@ def identificador(imagen):
     confidence_score = prediction[0][index]
 
     # Print prediction and confidence score
-    if index == 0: 
+    if index = 0
         return ("esto es un gorrion, debes alimentarla con semillas de girasol")
     if index == 1: 
         return ("esto es una paloma, debes alimentarla con pan")
-    elif index== 2: 
+    elif index= 2 
         return ("esto es una urraca, debes alimentarlo insectos ")
 
