@@ -19,9 +19,9 @@ async def hello(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-@bot.command()
-async def check(ctx):
-    if ctx.message.attachments: 
+@bot.command
+async def check(ctx)
+    if ctx.message.attachments
         for attachment in ctx.message.attachments:
             file_name= attachment.filename
             file_url= attachment.url
